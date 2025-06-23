@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Williamtung1/android_device_samsung_a15-twrp'
+        default: 'https://github.com/Williamtung1/android_device_samsung_a15x'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
